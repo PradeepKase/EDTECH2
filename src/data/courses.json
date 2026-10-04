@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "lessons": 20,
+    "lessonItems": [
+      {"id": 101, "title": "Introduction", "completed": true},
+      {"id": 102, "title": "Variables & Data Types", "completed": true},
+      {"id": 103, "title": "Functions", "completed": false},
+      {"id": 104, "title": "OOP", "completed": false}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "lessons": 16,
+    "lessonItems": [
+      {"id": 201, "title": "Introduction to GenAI", "completed": true},
+      {"id": 202, "title": "Prompt Engineering", "completed": false},
+      {"id": 203, "title": "LLM Fundamentals", "completed": false},
+      {"id": 204, "title": "Building AI Apps", "completed": false}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": 28,
+    "lessonItems": [
+      {"id": 301, "title": "HTML & CSS", "completed": true},
+      {"id": 302, "title": "JavaScript", "completed": false},
+      {"id": 303, "title": "React", "completed": false},
+      {"id": 304, "title": "Backend APIs", "completed": false}
+    ]
+  }
+]

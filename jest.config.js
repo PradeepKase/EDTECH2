@@ -1,3 +1,4 @@
 module.exports = {
-  preset: '@react-native/jest-preset',
+  preset: 'react-native',
+  testPathIgnorePatterns: ['/node_modules/', '/android/', '/ios/'],
 };
